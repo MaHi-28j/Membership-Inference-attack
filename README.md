@@ -1,8 +1,6 @@
 # Membership-Inference-attack
 Team Members: Mahitha Senthilnathan 7085415, Srinidhi Sreenivasan 7086703 
 
-# Membership Inference Attack (MIA)
-
 ## Overview
 This project implements a membership inference attack using a target model and a reference model.  
 The goal is to determine whether a data sample was part of the training set of the target model.
